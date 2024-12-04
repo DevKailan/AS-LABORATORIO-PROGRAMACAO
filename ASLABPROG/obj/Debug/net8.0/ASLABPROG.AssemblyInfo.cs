@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASLABPROG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f0fdf75cbd2d431abaed7fc55254736cfa60f88")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8dfd5d9e0612adfb6c64379c2c03c53557fe039")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASLABPROG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASLABPROG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
